@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400580698502",
+    "project_id": "entertainig-study",
+    "storage_bucket": "entertainig-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400580698502:android:e04999bc209223d21c0c07",
+        "android_client_info": {
+          "package_name": "ru.efimovpavel.entertainigstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400580698502-1904rkdlsr8fr8npj12hdr9uehmeilun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bAtTdBYzaNtAt7i2FwAkDi7xBAYYrbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400580698502-1904rkdlsr8fr8npj12hdr9uehmeilun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
